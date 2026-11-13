@@ -14,8 +14,6 @@ function excludeNumbers(exclude1, exclude2, exclude3){
 }
 
 
-
-
 function getComputerChoice(randomNumbers){
     let rock = 0;
     let paper = 5;
@@ -40,10 +38,6 @@ function getHumanChoice(){
 
     return caseInsensitive;
 }
-
-
-
-
 
 
 function playGame(){
